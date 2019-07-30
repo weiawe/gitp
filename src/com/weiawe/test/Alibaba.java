@@ -12,7 +12,7 @@ public class Alibaba {
 		String a = null;
 		switch (a) {
 		case "null":
-			System.out.println("null");
+			System.out.println("null push");
 			break;
 
 		default:
